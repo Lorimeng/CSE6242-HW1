@@ -1,0 +1,6 @@
+Layout: Force Atlas, Label Adjust
+Choose Degree in Nodes to set nodes' colors
+Run Avg. Path Length, choose Betweenness Centrality in Ranking to set min size 10, max size 50
+Run Modularity, choose Modularity Class in Nodes' Partition
+Show label, adjust label size
+Set Filter->Degree Range to 3

@@ -1,0 +1,14 @@
+c.i.a
+    There are 47 rows return Ture
+c.i.b
+    There are 5 rows are generated (not included original category-name)
+c.ii
+    I used Method: Key Collision, Keying function: Metaphone3 
+    to generate 566 clusters, which is the highest number of 
+    clusters under Key Collison method.
+c.iii
+    if(isNull(value), "Unbranded", value)
+c.iv
+    if(value.toNumber() > 100, 1, 0)
+c.v
+    if(or(value.contains("discount"), value.contains("offer"), value.contains("sale")), 1, 0) 

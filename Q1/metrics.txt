@@ -1,0 +1,3 @@
+Average node degree (mine is 1.697) is measured the number of edges compared to number of nodes
+Diameter of the graph (mine is 16) represents the max number of nodes that we need to traverse from a node to another
+Average path length (mine is 4.603) represents the average path length of all pairs of nodes

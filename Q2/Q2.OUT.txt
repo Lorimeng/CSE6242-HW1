@@ -1,0 +1,64 @@
+movie_cast  movies    
+~~~~~
+500
+5090
+~~~~~
+cast_index    movie_index   scores_index
+~~~~~
+prop
+52.2
+~~~~~
+id,name,score
+770824025,Breakout: Prisoner of War Escapes,100
+770739077,Hanna's War,100
+770802431,The Secret War of Harry Frigg,100
+770714888,The War on the War on Drugs,100
+770693439,Uncovered: The War on Iraq,100
+770808549,War of the Zombies (Roma contro Roma),100
+770694757,Funny Dirty Little War,99
+~~~~~
+cast_id,cast_name,movie_count
+162655731,James Earl Jones,9
+178810494,Anthony Daniels,8
+418638213,Kenny Baker,8
+162665747,Mark Hamill,7
+425838884,Peter Mayhew,7
+~~~~~
+cast_id,cast_name,average_score
+162655836,Charlton Heston,85.4
+770685050,Dick Cheney,83.0
+326391032,George W. Bush,83.0
+162653967,Anthony Hopkins,81.75
+770725563,Franklin Delano Roosevelt,78.0
+162652772,Steven Spielberg,69.3333333333333
+162663355,Carrie Fisher,69.0
+162661579,Harrison Ford,69.0
+162665747,Mark Hamill,69.0
+364658973,Don Harvey,68.6666666666667
+~~~~~
+0,cast_member_id1,integer,0,,0
+1,cast_member_id2,integer,0,,0
+2,movie_count,,0,,0
+3,average_movie_score,,0,,0
+47.0892720306514
+~~~~~
+cast_id,cast_name,collaboration_score
+770685050,Dick Cheney,83.0
+326391032,George W. Bush,83.0
+162652764,Dakota Fanning,56.6666666666667
+162657036,Gene Barry,56.6666666666667
+162652765,Miranda Otto,56.6666666666667
+~~~~~
+count_overview
+12
+~~~~~
+id
+76
+194
+582
+843
+137182
+152601
+265195
+293299
+~~~~~
